@@ -1,0 +1,10 @@
+- Figure out how to prevent reloading of model
+- ~~Load Image~~
+- Preprocess Image
+- First Model Iteration
+- Second Model Iteration
+- Post Process Image
+- Create and Interpret Countour Hierarchy
+- Create Output Img
+- Create CSV
+- Program End
