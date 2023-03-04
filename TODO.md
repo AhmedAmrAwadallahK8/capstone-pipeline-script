@@ -1,6 +1,7 @@
 - Figure out how to prevent reloading of model
 - ~~Load Image~~
 - Preprocess Image
+	- Currently don't support tiffs with more than one layer
 - First Model Iteration
 - Second Model Iteration
 - Post Process Image

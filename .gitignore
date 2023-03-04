@@ -1,3 +1,7 @@
 *.un~
 *~
 *.swp
+*.tiff
+*.tif
+*.jpg
+*.png
