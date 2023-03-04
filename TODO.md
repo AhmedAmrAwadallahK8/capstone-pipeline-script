@@ -2,10 +2,11 @@
 - ~~Load Image~~
 - Preprocess Image
 	- Currently don't support tiffs with more than one layer
-- First Model Iteration
-- Second Model Iteration
-- Post Process Image
-- Create and Interpret Countour Hierarchy
-- Create Output Img
-- Create CSV
-- Program End
+- ~~First Model Iteration~~
+- ~~Second Model Iteration~~
+- ~~Third Model Iteration~~
+- ~~Post Process Image~~
+- ~~Create and Interpret Countour Hierarchy~~
+- ~~Create Output Img~~
+	- ~~Decide what type we want to save imgs as~~
+- ~~Create CSV~~
